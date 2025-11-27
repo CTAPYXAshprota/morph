@@ -248,9 +248,6 @@
   "thaumcraft.common.entities.golems.ContainerGolem": [
     "swim|true,1F,1F,false"
   ],
-  "thaumcraft.common.entities.monster.EntityThaumicSlime": [
-    "swim|true,1F,1F,false"
-  ],
   "thaumcraft.common.entities.monster.EntityBrainyZombie": [
     "sunburn",
     "hostile"
@@ -489,3 +486,4 @@
     "sunburn"
   ]
 }
+
